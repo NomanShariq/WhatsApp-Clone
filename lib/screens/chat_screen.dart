@@ -161,7 +161,7 @@ class ChatScreen extends StatelessWidget {
                                 backgroundcolor: Colors.transparent,
                                 iconColour: Colors.grey,
                                 bordercolor: Colors.transparent,
-                                iconsize: 24,
+                                iconsize: 23,
                               ),
                             ],
                           ),
